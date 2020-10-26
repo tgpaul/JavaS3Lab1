@@ -1,2 +1,2 @@
-# LSDS3Lab1
-CEC Semester 3 LSD Lab Cycle 1
+# JavaS3Lab1
+CEC Semester 3 Java Lab Cycle 1
