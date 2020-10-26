@@ -14,9 +14,9 @@ public class Lab1_10 {
 			copy = copy / 10;
 		}
 		if(soc == num)
-			System.out.println("The given number IS a Armstrong number");
+			System.out.println("The given number IS an Armstrong number");
 		else
-			System.out.println("The given number IS NOT a Armstrong number");
+			System.out.println("The given number IS NOT an Armstrong number");
 		sc.close();
 	}
 }
