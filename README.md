@@ -1,4 +1,4 @@
-# JavaS3Lab1
+# JavaS3Lab
 KTU Semester 3 Java Lab Cycle 1
 
 Program Contents :-
