@@ -1,5 +1,6 @@
 # JavaS3Lab
 KTU Semester 3 Java Lab Cycle 1
+
 Program Contents :-
 1. Print "Hello World"
 2. Add two numbers
@@ -13,6 +14,7 @@ Program Contents :-
 10. Check to see if a given number is an Armstrong number
 
 KTU Semester 3 Java Lab Cycle 2
+
 Program Contents :-
 1. Write a Java class having overloaded methods to calculate area of rectangle
    and circle.
